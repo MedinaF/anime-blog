@@ -1,0 +1,15 @@
+{
+    "name": "admin/anime-blog",
+    "autoload": {
+        "psr-4": {
+            "Admin\\AnimeBlog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MedinaF",
+            "email": "medinafrederick178@gmail.com"
+        }
+    ],
+    "require": {}
+}
